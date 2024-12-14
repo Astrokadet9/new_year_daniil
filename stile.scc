@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    margin:0px
+}
+
+h2{
+    text-align:center;
+    background-color: darkred;
+    margin:0px;
+     border:10px red dashed 
+} 
+
+a{
+    font-size:20px;
+  
+}
+h3{
+   background-color:rgb(233, 85, 226);
+}
+
+h4{
+    text-align: center ;
+    border:10px red dashed 
+}
+
+.hds{
+    background-color:
+}
+
+img{
+    width: 400; height: 300px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    border: 2px black solid;
+    padding: 5px;
+}
